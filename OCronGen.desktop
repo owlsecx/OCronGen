@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OCronGen
+Comment=Cron Builder/Validator/Explainer
+Exec=OCronGen
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OCore;
